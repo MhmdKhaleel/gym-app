@@ -6,7 +6,7 @@ const GymNavBar = () => {
         <div>
 
 
-            <nav className="navbar navbar-expand-lg bg-body-tertiary">
+            <nav className="navbar navbar-expand-lg bg-info">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">Gym App</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
